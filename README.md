@@ -4,7 +4,7 @@ A responsive Netflix landing page created using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Netflix Landing Page Preview](img/netflixpage.png)
+![Netflix Landing Page Preview](img/Netflixpage.png)
 
 ![Netflix Landing Page Preview](img/nextflixpage2.png)
 
